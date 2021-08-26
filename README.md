@@ -78,5 +78,5 @@ Detaylar için:
 
 ***sinkaf**, Açık Hack 2021'e katılmak amacıyla [Kara](https://github.com/eonurk)[Göz](https://github.com/ogozuacik) ekibi tarafından geliştirilmiştir.*
 
-<div><a href="https://github.com/eonurk"><img src="https://user-images.githubusercontent.com/22842930/130747072-f0718a65-5a58-4ddd-9fda-7b127e62fc26.png" width="70" height="auto" align="absmiddle" /></a> <span style="vertical-align: middle; text-allign: center;">Proje fikri, yazılımı ve sınıflandırma yöntemlerinin geliştirilmesi</span></div>
+<div><a href="https://github.com/eonurk"><img src="https://user-images.githubusercontent.com/22842930/130747072-f0718a65-5a58-4ddd-9fda-7b127e62fc26.png" width="70" height="auto" align="absmiddle" /></a> <span style="vertical-align: middle; text-allign: center;">Proje fikrinin, yazılımının ve sınıflandırma yöntemlerinin geliştirilmesi</span></div>
 <div><a href="https://github.com/ogozuacik"> <img src="https://user-images.githubusercontent.com/22842930/130747289-afbde44d-6fe8-4a72-aaf8-31be00f4abd6.png" width="70" height="auto" align="absmiddle" /></a> <span style="vertical-align: middle; text-allign: center;">BERT kullanımı ve farklı yöntemlerin denenmesi</span></div>
