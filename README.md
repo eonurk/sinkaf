@@ -26,7 +26,13 @@ Arka planda modelimizi eğitmek için [A corpus of Turkish offensive language](h
 ```properties
 pip3 install sinkaf
 ```
-
+### [Gerekli paketler](requirements.txt)
+``` 
+joblib
+transformers
+numpy
+scikit_learn
+```
 ## Nasıl kullanırım?
 
 ```python
@@ -72,11 +78,5 @@ Detaylar için:
 
 ***sinkaf**, Açık Hack 2021'e katılmak amacıyla [Kara](https://github.com/eonurk)[Göz](https://github.com/ogozuacik) ekibi tarafından geliştirilmiştir.*
 
-<div class="footnote_images">
-  <a href="https://github.com/eonurk">
-    <img src="https://user-images.githubusercontent.com/22842930/130747072-f0718a65-5a58-4ddd-9fda-7b127e62fc26.png" height="auto" width="70">
-  </a>
-  <a href="https://github.com/ogozuacik">
-    <img src="https://user-images.githubusercontent.com/22842930/130747289-afbde44d-6fe8-4a72-aaf8-31be00f4abd6.png" height="auto" width="70">
-  </a>
-</div>
+<div><a href="https://github.com/eonurk"><img style="vertical-align: middle;" src="https://user-images.githubusercontent.com/22842930/130747072-f0718a65-5a58-4ddd-9fda-7b127e62fc26.png" width="70" height="auto" /></a><span style="vertical-align: middle; text-allign: center;">Proje fikri, yazılımı ve sınıflandırma y&ouml;ntemlerinin geliştirilmesi</span></div>
+<div><a href="https://github.com/ogozuacik"> <img style="vertical-align: middle;" src="https://user-images.githubusercontent.com/22842930/130747289-afbde44d-6fe8-4a72-aaf8-31be00f4abd6.png" width="70" height="auto" /></a><span style="vertical-align: middle; text-allign: center;">BERT kullanımı ve farklı y&ouml;ntemlerin denenmesi</span></div>
