@@ -26,13 +26,12 @@ Arka planda modelimizi eğitmek için [A corpus of Turkish offensive language](h
 ```properties
 pip3 install sinkaf
 ```
-### [Gerekli paketler](requirements.txt)
+
+#### Gerekli paketler için:
 ``` 
-joblib
-transformers
-numpy
-scikit_learn
+pip3 install -r requirements.txt
 ```
+
 ## Nasıl kullanırım?
 
 ```python
