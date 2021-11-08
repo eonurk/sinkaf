@@ -80,4 +80,6 @@ Detaylar için:
 <a href="https://github.com/ogozuacik"> <img src="https://user-images.githubusercontent.com/22842930/130747289-afbde44d-6fe8-4a72-aaf8-31be00f4abd6.png" width="70" height="auto" align="absmiddle" /></a></div>
 
 \
-*<sup>\*[ sunum linki](https://docs.google.com/presentation/d/1J-S4mvhWRyGiFDLexv_-rvtS9EFcBDnqq6tmECWR9Q0/edit?usp=sharing), [video linki](https://www.youtube.com/watch?v=TNSMcQxTe2U&t=1s)</sup>*
+*<sup>
+  *[sunum linki](https://docs.google.com/presentation/d/1J-S4mvhWRyGiFDLexv_-rvtS9EFcBDnqq6tmECWR9Q0/edit?usp=sharing), [video linki](https://www.youtube.com/watch?v=TNSMcQxTe2U&t=1s)
+</sup>*
