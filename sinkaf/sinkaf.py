@@ -3,6 +3,8 @@ import numpy as np
 from urllib.request import urlopen
 import subprocess
 import sys
+from pkg_resources import resource_filename
+
 
 
 class Sinkaf:
@@ -20,15 +22,12 @@ class Sinkaf:
         self.model = model
 
         if self.model == Sinkaf.LINEAR_MODEL_NAME:
-            self.clf = joblib.load(urlopen(
-                "https://github.com/eonurk/sinkaf/blob/master/sinkaf/data/model_linearSVC.joblib?raw=true"))
+            self.clf = joblib.load(resource_filename('sinkaf', 'data/model_linearSVC.joblib'))
         elif self.model in Sinkaf.BERT_MODEL_NAMES:
             if self.model == Sinkaf.BERT_HIGH_PRECISION_MODEL_NAME:
-                self.clf = joblib.load(urlopen(
-                    "https://github.com/eonurk/sinkaf/blob/master/sinkaf/data/clf_nn_precision.joblib?raw=true"))
+                self.clf = joblib.load(resource_filename('sinkaf', 'data/clf_nn_precision.joblib'))
             elif self.model == Sinkaf.BERT_HIGH_RECALL_MODEL_NAME:
-                self.clf = joblib.load(urlopen(
-                    "https://github.com/eonurk/sinkaf/blob/master/sinkaf/data/clf_nn_recall.joblib?raw=true"))
+                self.clf = joblib.load(resource_filename('sinkaf', 'data/clf_nn_recall.joblib'))
             # Bert modeli icin kullanilacaklar
             try:
                 import torch
