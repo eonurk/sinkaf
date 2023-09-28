@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Sinkaf
+message: Sinkaf'ı alıntılamak için...
+type: software
+authors:
+  - given-names: E Onur
+    family-names: Karakaslar
+    orcid: 'https://orcid.org/0000-0002-9182-910X'
+  - given-names: Ömer
+    family-names: Gözüaçık
+repository-code: 'https://github.com/eonurk/sinkaf'
+license: MIT
